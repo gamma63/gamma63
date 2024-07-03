@@ -18,4 +18,4 @@ Stuff which I am learning:
 |---|---|---|
 
 ### 💻 Operating System: 
-##### open~~SUSE~~SUSSY                  >= 11 hrs 9 mins/Day
+##### openSUSSY                  >= 11 hrs 9 mins/Day
