@@ -5,6 +5,13 @@ I am gamma63, who is really newbie to OSDev
 - 😄 Pronouns: He/him
 - 🥶 Speak on Russian (C3 level), English (B3/C1 level), Romanian (A3 level)
 
+### Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gamma63&theme=ocean_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gamma63&theme=ocean_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gamma63&theme=ocean_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gamma63&theme=ocean_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gamma63&theme=ocean_dark&utcOffset=8)
+
 ### Programming/not programming stuff which I am use 🌐
 
 Stuff which I am using:
