@@ -4,6 +4,7 @@ I am gamma63, who is really newbie to OSDev
 
 - 😄 Pronouns: He/him
 - 🥶 Speak on Russian (C3 level), English (B3/C1 level), Romanian (A3 level)
+- ⭐ Preferred language: English
 
 ### Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gamma63) 
@@ -27,4 +28,4 @@ Stuff which I am learning:
 |---|---|
 
 ### 💻 Operating System: 
-##### openSUSSY                  >= 5 - 8 hrs/Day
+##### Arch ~~(Btw)~~                  >= 5 - 8 hrs/Day
