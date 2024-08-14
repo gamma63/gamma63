@@ -12,6 +12,7 @@ I am gamma63, who is really newbie to OSDev
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gamma63)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gamma63)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gamma63)
+[![Stats](https://github-readme-stats.vercel.app/api?username=gamma63)](https://github.com/gamma63)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=gamma63)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gamma63)  
 
