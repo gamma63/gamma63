@@ -29,4 +29,4 @@ Stuff which I am learning:
 |---|---|
 
 ### 💻 Operating System: 
-##### Arch ~~(Btw)~~                  >= 5 - 8 hrs/Day
+##### Windows 11                 >= 5 - 8 hrs/Day
