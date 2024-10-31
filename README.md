@@ -30,3 +30,4 @@ Stuff which I am learning:
 
 ### 💻 Operating System: 
 ##### Windows 11                 >= 5 - 8 hrs/Day
+##### Arch Linux                 >= 2 - 4 hrs/day
