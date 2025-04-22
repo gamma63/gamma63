@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I am gamma63, who is really newbie to OSDev
-
 - 😄 Pronouns: He/him
 - 🥶 Speak on Russian (C3 level), English (B3/C1 level), Romanian (A3 level)
 - ⭐ Preferred language: English
