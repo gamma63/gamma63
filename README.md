@@ -14,12 +14,10 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=gamma63)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gamma63)  
 
-### Programming/not programming stuff which I am use 🌐
-
 Stuff which I'm using:
 
-| [<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/csharp/csharp.png" alt="csharp logo" width="24">](https://learn.microsoft.com/en-us/dotnet/csharp/) | [<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/bash/bash.png" alt="bash logo" width="24">](https://www.gnu.org/software/bash/manual/bash.html) | [<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/html/html.png" alt="html logo" width="24">](https://html.spec.whatwg.org/) | [<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/linux/linux.png" alt="linux logo" width="24">](https://kernel.org) | [<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/markdown/markdown.png" alt="markdown logo" width="24">](https://daringfireball.net/projects/markdown/) |
-|---|---|---|---|---|
+| [<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/bash/bash.png" alt="bash logo" width="24">](https://www.gnu.org/software/bash/manual/bash.html) | [<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/html/html.png" alt="html logo" width="24">](https://html.spec.whatwg.org/) | [<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/linux/linux.png" alt="linux logo" width="24">](https://kernel.org) | [<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/markdown/markdown.png" alt="markdown logo" width="24">](https://daringfireball.net/projects/markdown/) |
+|---|---|---|---|
 
 Stuff which I'm learning:
 
